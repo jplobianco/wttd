@@ -2,5 +2,6 @@
 .idea
 .wttd
 *.sqlite3
-*pyc
-__pycache__
+*.pyc
+*__pycache__*
+staticfiles
