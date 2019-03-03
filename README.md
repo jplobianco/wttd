@@ -1,5 +1,9 @@
 # Eventex
 
+[![Build Status](https://travis-ci.org/jplobianco/wttd.svg?branch=master)](https://travis-ci.org/jplobianco/wttd)
+
+
+
 Sistema de Eventos encomendado pela Morena
 
 ## Como desenvolver?
